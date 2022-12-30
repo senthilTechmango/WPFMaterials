@@ -1,0 +1,8 @@
+D:\WPF-Framework\WPFMaterials\WPFControls\TechMangoWPFControls\TMDAL\bin\Debug\netstandard2.0\TMDAL.deps.json
+D:\WPF-Framework\WPFMaterials\WPFControls\TechMangoWPFControls\TMDAL\bin\Debug\netstandard2.0\TMDAL.dll
+D:\WPF-Framework\WPFMaterials\WPFControls\TechMangoWPFControls\TMDAL\bin\Debug\netstandard2.0\TMDAL.pdb
+D:\WPF-Framework\WPFMaterials\WPFControls\TechMangoWPFControls\TMDAL\obj\Debug\netstandard2.0\TMDAL.AssemblyInfoInputs.cache
+D:\WPF-Framework\WPFMaterials\WPFControls\TechMangoWPFControls\TMDAL\obj\Debug\netstandard2.0\TMDAL.AssemblyInfo.cs
+D:\WPF-Framework\WPFMaterials\WPFControls\TechMangoWPFControls\TMDAL\obj\Debug\netstandard2.0\TMDAL.csproj.CoreCompileInputs.cache
+D:\WPF-Framework\WPFMaterials\WPFControls\TechMangoWPFControls\TMDAL\obj\Debug\netstandard2.0\TMDAL.dll
+D:\WPF-Framework\WPFMaterials\WPFControls\TechMangoWPFControls\TMDAL\obj\Debug\netstandard2.0\TMDAL.pdb

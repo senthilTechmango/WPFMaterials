@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "8GH9SL64+6LbzAPIyuiTzKONORw7t3AtGWuoZzyXk5PH4wqmsrkZ95lqdIrw/Ukj8aHYpznV58wXakw8nY30Cw==",
+  "success": true,
+  "projectFilePath": "D:\\WPF-Framework\\WPFMaterials\\WPFControls\\TechMangoWPFControls\\TMDAL\\TMDAL.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sys-user\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\sys-user\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

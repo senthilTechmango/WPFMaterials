@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "+RiqRhOCZ573rRTSfMxhXjBSyeWQcHlS2JkVP474lb3eAL0JTMmnfRMpQYF3UVgkqCrue0RwpLPC+T3iL/oPIg==",
+  "success": true,
+  "projectFilePath": "D:\\WPF-Framework\\WPFMaterials\\WPFControls\\TechMangoWPFControls\\TMBL\\TMBL.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sys-user\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\sys-user\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
