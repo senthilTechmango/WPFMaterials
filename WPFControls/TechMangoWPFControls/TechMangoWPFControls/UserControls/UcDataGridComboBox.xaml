@@ -1,0 +1,40 @@
+﻿<UserControl x:Class="TechMangoWPFControls.UserControls.UcDataGridComboBox"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:TechMangoWPFControls.UserControls"
+             mc:Ignorable="d" 
+             d:DesignHeight="450" d:DesignWidth="800">
+    <Grid Loaded="Grid_Loaded" Margin="10,0,26,0">
+        <DataGrid x:Name="gridEmployee" HorizontalAlignment="Left" Height="222" Margin="42,96,0,0" VerticalAlignment="Top" Width="701"/>
+        <Label Content="Search" HorizontalAlignment="Left" Margin="59,41,0,0" VerticalAlignment="Top" Height="28" Width="68"/>
+        <TextBox x:Name="txt_SearchName" HorizontalAlignment="Left" Height="28" Margin="484,41,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="157" KeyDown="txt_SearchName_KeyDown"/>
+        <ComboBox x:Name="demoCmb" HorizontalAlignment="Left" Margin="132,41,0,0" VerticalAlignment="Top" Width="255" Height="28"/>
+        <Button x:Name="btnSearch" Content="Search" HorizontalAlignment="Left" Margin="666,41,0,0" VerticalAlignment="Top" Width="77" Height="28" RenderTransformOrigin="0.044,0.621" Click="btnSearch_Click"/>
+        <Button x:Name="btnPrev" Content="Prev" HorizontalAlignment="Left" Margin="206,357,0,0" VerticalAlignment="Top" Width="86" Click="btnPrev_Click" Height="20"/>
+        <Button x:Name="btnNext" Content="Next" HorizontalAlignment="Left" Margin="472,357,0,0" VerticalAlignment="Top" Width="78" Click="btnNext_Click"/>
+        <Label x:Name="lblPageNo" Content="Page Number:" HorizontalAlignment="Left" Margin="335,356,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.5,0.5" Width="95" Height="24">
+            <Label.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="0.314"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Label.RenderTransform>
+        </Label>
+        <Button x:Name="btn_First" Content="First" HorizontalAlignment="Left" Margin="106,357,0,0" VerticalAlignment="Top" Width="84" Height="20" Click="btn_First_Click"/>
+        <Button x:Name="btn_Last" Content="Last" HorizontalAlignment="Left" Margin="582,355,0,0" VerticalAlignment="Top" Width="73" Height="26" RenderTransformOrigin="0.419,-0.381" Click="btn_Last_Click">
+            <Button.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="0.53"/>
+                    <TranslateTransform X="0.213" Y="-0.055"/>
+                </TransformGroup>
+            </Button.RenderTransform>
+        </Button>
+
+    </Grid>
+</UserControl>

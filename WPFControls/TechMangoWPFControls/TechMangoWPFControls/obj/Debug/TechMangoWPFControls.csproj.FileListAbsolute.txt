@@ -16,3 +16,223 @@ D:\WPF-Framework\WPFMaterials\WPFControls\TechMangoWPFControls\TechMangoWPFContr
 D:\WPF-Framework\WPFMaterials\WPFControls\TechMangoWPFControls\TechMangoWPFControls\bin\Debug\TMBL.pdb
 D:\WPF-Framework\WPFMaterials\WPFControls\TechMangoWPFControls\TechMangoWPFControls\obj\Debug\TechMangoWPFControls.csproj.AssemblyReference.cache
 D:\WPF-Framework\WPFMaterials\WPFControls\TechMangoWPFControls\TechMangoWPFControls\obj\Debug\TechMangoWPFControls.csproj.CopyComplete
+D:\WPF_ProjectRepository\WPF_repostiory_31-12\WPFControls\TechMangoWPFControls\TechMangoWPFControls\bin\Debug\TechMangoWPFControls.exe.config
+D:\WPF_ProjectRepository\WPF_repostiory_31-12\WPFControls\TechMangoWPFControls\TechMangoWPFControls\bin\Debug\TechMangoWPFControls.exe
+D:\WPF_ProjectRepository\WPF_repostiory_31-12\WPFControls\TechMangoWPFControls\TechMangoWPFControls\bin\Debug\TechMangoWPFControls.pdb
+D:\WPF_ProjectRepository\WPF_repostiory_31-12\WPFControls\TechMangoWPFControls\TechMangoWPFControls\bin\Debug\System.Data.SqlClient.dll
+D:\WPF_ProjectRepository\WPF_repostiory_31-12\WPFControls\TechMangoWPFControls\TechMangoWPFControls\bin\Debug\TMBL.dll
+D:\WPF_ProjectRepository\WPF_repostiory_31-12\WPFControls\TechMangoWPFControls\TechMangoWPFControls\bin\Debug\TMDAL.dll
+D:\WPF_ProjectRepository\WPF_repostiory_31-12\WPFControls\TechMangoWPFControls\TechMangoWPFControls\bin\Debug\TMBL.pdb
+D:\WPF_ProjectRepository\WPF_repostiory_31-12\WPFControls\TechMangoWPFControls\TechMangoWPFControls\bin\Debug\System.Data.SqlClient.xml
+D:\WPF_ProjectRepository\WPF_repostiory_31-12\WPFControls\TechMangoWPFControls\TechMangoWPFControls\bin\Debug\TMDAL.pdb
+D:\WPF_ProjectRepository\WPF_repostiory_31-12\WPFControls\TechMangoWPFControls\TechMangoWPFControls\obj\Debug\TechMangoWPFControls.csproj.AssemblyReference.cache
+D:\WPF_ProjectRepository\WPF_repostiory_31-12\WPFControls\TechMangoWPFControls\TechMangoWPFControls\obj\Debug\MainWindow.g.cs
+D:\WPF_ProjectRepository\WPF_repostiory_31-12\WPFControls\TechMangoWPFControls\TechMangoWPFControls\obj\Debug\App.g.cs
+D:\WPF_ProjectRepository\WPF_repostiory_31-12\WPFControls\TechMangoWPFControls\TechMangoWPFControls\obj\Debug\TechMangoWPFControls_MarkupCompile.cache
+D:\WPF_ProjectRepository\WPF_repostiory_31-12\WPFControls\TechMangoWPFControls\TechMangoWPFControls\obj\Debug\TechMangoWPFControls_MarkupCompile.lref
+D:\WPF_ProjectRepository\WPF_repostiory_31-12\WPFControls\TechMangoWPFControls\TechMangoWPFControls\obj\Debug\MainWindow.baml
+D:\WPF_ProjectRepository\WPF_repostiory_31-12\WPFControls\TechMangoWPFControls\TechMangoWPFControls\obj\Debug\TechMangoWPFControls.g.resources
+D:\WPF_ProjectRepository\WPF_repostiory_31-12\WPFControls\TechMangoWPFControls\TechMangoWPFControls\obj\Debug\TechMangoWPFControls.Properties.Resources.resources
+D:\WPF_ProjectRepository\WPF_repostiory_31-12\WPFControls\TechMangoWPFControls\TechMangoWPFControls\obj\Debug\TechMangoWPFControls.csproj.GenerateResource.cache
+D:\WPF_ProjectRepository\WPF_repostiory_31-12\WPFControls\TechMangoWPFControls\TechMangoWPFControls\obj\Debug\TechMangoWPFControls.csproj.CoreCompileInputs.cache
+D:\WPF_ProjectRepository\WPF_repostiory_31-12\WPFControls\TechMangoWPFControls\TechMangoWPFControls\obj\Debug\TechMangoWPFControls.csproj.CopyComplete
+D:\WPF_ProjectRepository\WPF_repostiory_31-12\WPFControls\TechMangoWPFControls\TechMangoWPFControls\obj\Debug\TechMangoWPFControls.exe
+D:\WPF_ProjectRepository\WPF_repostiory_31-12\WPFControls\TechMangoWPFControls\TechMangoWPFControls\obj\Debug\TechMangoWPFControls.pdb
+D:\WPF_ProjectRepository\WPF_repostiory_02-01-23\WPFControls\TechMangoWPFControls\TechMangoWPFControls\obj\Debug\TechMangoWPFControls.csproj.AssemblyReference.cache
+D:\WPF_ProjectRepository\WPF_repostiory_02-01-23\WPFControls\TechMangoWPFControls\TechMangoWPFControls\obj\Debug\MainWindow.g.cs
+D:\WPF_ProjectRepository\WPF_repostiory_02-01-23\WPFControls\TechMangoWPFControls\TechMangoWPFControls\obj\Debug\App.g.cs
+D:\WPF_ProjectRepository\WPF_repostiory_02-01-23\WPFControls\TechMangoWPFControls\TechMangoWPFControls\obj\Debug\TechMangoWPFControls_MarkupCompile.cache
+D:\WPF_ProjectRepository\WPF_repostiory_02-01-23\WPFControls\TechMangoWPFControls\TechMangoWPFControls\obj\Debug\TechMangoWPFControls_MarkupCompile.lref
+D:\WPF_ProjectRepository\WPF_repostiory_02-01-23\WPFControls\TechMangoWPFControls\TechMangoWPFControls\obj\Debug\TechMangoWPFControls.exe
+D:\WPF_ProjectRepository\WPF_repostiory_02-01-23\WPFControls\TechMangoWPFControls\TechMangoWPFControls\obj\Debug\TechMangoWPFControls.pdb
+D:\WPF_ProjectRepository\WPF_repostiory_02-01-23\WPFControls\TechMangoWPFControls\TechMangoWPFControls\bin\Debug\TechMangoWPFControls.exe.config
+D:\WPF_ProjectRepository\WPF_repostiory_02-01-23\WPFControls\TechMangoWPFControls\TechMangoWPFControls\bin\Debug\TechMangoWPFControls.exe
+D:\WPF_ProjectRepository\WPF_repostiory_02-01-23\WPFControls\TechMangoWPFControls\TechMangoWPFControls\bin\Debug\TechMangoWPFControls.pdb
+D:\WPF_ProjectRepository\WPF_repostiory_02-01-23\WPFControls\TechMangoWPFControls\TechMangoWPFControls\bin\Debug\System.Data.SqlClient.dll
+D:\WPF_ProjectRepository\WPF_repostiory_02-01-23\WPFControls\TechMangoWPFControls\TechMangoWPFControls\bin\Debug\TMBL.dll
+D:\WPF_ProjectRepository\WPF_repostiory_02-01-23\WPFControls\TechMangoWPFControls\TechMangoWPFControls\bin\Debug\TMDAL.dll
+D:\WPF_ProjectRepository\WPF_repostiory_02-01-23\WPFControls\TechMangoWPFControls\TechMangoWPFControls\bin\Debug\TMBL.pdb
+D:\WPF_ProjectRepository\WPF_repostiory_02-01-23\WPFControls\TechMangoWPFControls\TechMangoWPFControls\bin\Debug\System.Data.SqlClient.xml
+D:\WPF_ProjectRepository\WPF_repostiory_02-01-23\WPFControls\TechMangoWPFControls\TechMangoWPFControls\bin\Debug\TMDAL.pdb
+D:\WPF_ProjectRepository\WPF_repostiory_02-01-23\WPFControls\TechMangoWPFControls\TechMangoWPFControls\obj\Debug\MainWindow.baml
+D:\WPF_ProjectRepository\WPF_repostiory_02-01-23\WPFControls\TechMangoWPFControls\TechMangoWPFControls\obj\Debug\TechMangoWPFControls.g.resources
+D:\WPF_ProjectRepository\WPF_repostiory_02-01-23\WPFControls\TechMangoWPFControls\TechMangoWPFControls\obj\Debug\TechMangoWPFControls.Properties.Resources.resources
+D:\WPF_ProjectRepository\WPF_repostiory_02-01-23\WPFControls\TechMangoWPFControls\TechMangoWPFControls\obj\Debug\TechMangoWPFControls.csproj.GenerateResource.cache
+D:\WPF_ProjectRepository\WPF_repostiory_02-01-23\WPFControls\TechMangoWPFControls\TechMangoWPFControls\obj\Debug\TechMangoWPFControls.csproj.CoreCompileInputs.cache
+D:\WPF_ProjectRepository\WPF_repostiory_02-01-23\WPFControls\TechMangoWPFControls\TechMangoWPFControls\obj\Debug\TechMangoWPFControls.csproj.CopyComplete
+D:\WPF_ProjectRepository\WPF_repostiory_02-01-23 - Copy\WPFControls\TechMangoWPFControls\TechMangoWPFControls\bin\Debug\TechMangoWPFControls.exe.config
+D:\WPF_ProjectRepository\WPF_repostiory_02-01-23 - Copy\WPFControls\TechMangoWPFControls\TechMangoWPFControls\bin\Debug\TechMangoWPFControls.exe
+D:\WPF_ProjectRepository\WPF_repostiory_02-01-23 - Copy\WPFControls\TechMangoWPFControls\TechMangoWPFControls\bin\Debug\TechMangoWPFControls.pdb
+D:\WPF_ProjectRepository\WPF_repostiory_02-01-23 - Copy\WPFControls\TechMangoWPFControls\TechMangoWPFControls\bin\Debug\System.Data.SqlClient.dll
+D:\WPF_ProjectRepository\WPF_repostiory_02-01-23 - Copy\WPFControls\TechMangoWPFControls\TechMangoWPFControls\bin\Debug\TMBL.dll
+D:\WPF_ProjectRepository\WPF_repostiory_02-01-23 - Copy\WPFControls\TechMangoWPFControls\TechMangoWPFControls\bin\Debug\TMDAL.dll
+D:\WPF_ProjectRepository\WPF_repostiory_02-01-23 - Copy\WPFControls\TechMangoWPFControls\TechMangoWPFControls\bin\Debug\TMBL.pdb
+D:\WPF_ProjectRepository\WPF_repostiory_02-01-23 - Copy\WPFControls\TechMangoWPFControls\TechMangoWPFControls\bin\Debug\System.Data.SqlClient.xml
+D:\WPF_ProjectRepository\WPF_repostiory_02-01-23 - Copy\WPFControls\TechMangoWPFControls\TechMangoWPFControls\bin\Debug\TMDAL.pdb
+D:\WPF_ProjectRepository\WPF_repostiory_02-01-23 - Copy\WPFControls\TechMangoWPFControls\TechMangoWPFControls\obj\Debug\TechMangoWPFControls.csproj.AssemblyReference.cache
+D:\WPF_ProjectRepository\WPF_repostiory_02-01-23 - Copy\WPFControls\TechMangoWPFControls\TechMangoWPFControls\obj\Debug\DataGrid_Bind.g.cs
+D:\WPF_ProjectRepository\WPF_repostiory_02-01-23 - Copy\WPFControls\TechMangoWPFControls\TechMangoWPFControls\obj\Debug\MainWindow.g.cs
+D:\WPF_ProjectRepository\WPF_repostiory_02-01-23 - Copy\WPFControls\TechMangoWPFControls\TechMangoWPFControls\obj\Debug\App.g.cs
+D:\WPF_ProjectRepository\WPF_repostiory_02-01-23 - Copy\WPFControls\TechMangoWPFControls\TechMangoWPFControls\obj\Debug\TechMangoWPFControls_MarkupCompile.cache
+D:\WPF_ProjectRepository\WPF_repostiory_02-01-23 - Copy\WPFControls\TechMangoWPFControls\TechMangoWPFControls\obj\Debug\TechMangoWPFControls_MarkupCompile.lref
+D:\WPF_ProjectRepository\WPF_repostiory_02-01-23 - Copy\WPFControls\TechMangoWPFControls\TechMangoWPFControls\obj\Debug\DataGrid_Bind.baml
+D:\WPF_ProjectRepository\WPF_repostiory_02-01-23 - Copy\WPFControls\TechMangoWPFControls\TechMangoWPFControls\obj\Debug\MainWindow.baml
+D:\WPF_ProjectRepository\WPF_repostiory_02-01-23 - Copy\WPFControls\TechMangoWPFControls\TechMangoWPFControls\obj\Debug\TechMangoWPFControls.g.resources
+D:\WPF_ProjectRepository\WPF_repostiory_02-01-23 - Copy\WPFControls\TechMangoWPFControls\TechMangoWPFControls\obj\Debug\TechMangoWPFControls.Properties.Resources.resources
+D:\WPF_ProjectRepository\WPF_repostiory_02-01-23 - Copy\WPFControls\TechMangoWPFControls\TechMangoWPFControls\obj\Debug\TechMangoWPFControls.csproj.GenerateResource.cache
+D:\WPF_ProjectRepository\WPF_repostiory_02-01-23 - Copy\WPFControls\TechMangoWPFControls\TechMangoWPFControls\obj\Debug\TechMangoWPFControls.csproj.CoreCompileInputs.cache
+D:\WPF_ProjectRepository\WPF_repostiory_02-01-23 - Copy\WPFControls\TechMangoWPFControls\TechMangoWPFControls\obj\Debug\TechMangoWPFControls.csproj.CopyComplete
+D:\WPF_ProjectRepository\WPF_repostiory_02-01-23 - Copy\WPFControls\TechMangoWPFControls\TechMangoWPFControls\obj\Debug\TechMangoWPFControls.exe
+D:\WPF_ProjectRepository\WPF_repostiory_02-01-23 - Copy\WPFControls\TechMangoWPFControls\TechMangoWPFControls\obj\Debug\TechMangoWPFControls.pdb
+D:\WPF_ProjectRepository\WPF_repostiory_04-01-23\WPFControls\TechMangoWPFControls\TechMangoWPFControls\bin\Debug\TechMangoWPFControls.exe.config
+D:\WPF_ProjectRepository\WPF_repostiory_04-01-23\WPFControls\TechMangoWPFControls\TechMangoWPFControls\bin\Debug\TechMangoWPFControls.exe
+D:\WPF_ProjectRepository\WPF_repostiory_04-01-23\WPFControls\TechMangoWPFControls\TechMangoWPFControls\bin\Debug\TechMangoWPFControls.pdb
+D:\WPF_ProjectRepository\WPF_repostiory_04-01-23\WPFControls\TechMangoWPFControls\TechMangoWPFControls\bin\Debug\System.Data.SqlClient.dll
+D:\WPF_ProjectRepository\WPF_repostiory_04-01-23\WPFControls\TechMangoWPFControls\TechMangoWPFControls\bin\Debug\TMBL.dll
+D:\WPF_ProjectRepository\WPF_repostiory_04-01-23\WPFControls\TechMangoWPFControls\TechMangoWPFControls\bin\Debug\TMDAL.dll
+D:\WPF_ProjectRepository\WPF_repostiory_04-01-23\WPFControls\TechMangoWPFControls\TechMangoWPFControls\bin\Debug\TMBL.pdb
+D:\WPF_ProjectRepository\WPF_repostiory_04-01-23\WPFControls\TechMangoWPFControls\TechMangoWPFControls\bin\Debug\System.Data.SqlClient.xml
+D:\WPF_ProjectRepository\WPF_repostiory_04-01-23\WPFControls\TechMangoWPFControls\TechMangoWPFControls\bin\Debug\TMDAL.pdb
+D:\WPF_ProjectRepository\WPF_repostiory_04-01-23\WPFControls\TechMangoWPFControls\TechMangoWPFControls\obj\Debug\TechMangoWPFControls.csproj.AssemblyReference.cache
+D:\WPF_ProjectRepository\WPF_repostiory_04-01-23\WPFControls\TechMangoWPFControls\TechMangoWPFControls\obj\Debug\ComboBind.g.cs
+D:\WPF_ProjectRepository\WPF_repostiory_04-01-23\WPFControls\TechMangoWPFControls\TechMangoWPFControls\obj\Debug\DataGrid_Bind.g.cs
+D:\WPF_ProjectRepository\WPF_repostiory_04-01-23\WPFControls\TechMangoWPFControls\TechMangoWPFControls\obj\Debug\MainWindow.g.cs
+D:\WPF_ProjectRepository\WPF_repostiory_04-01-23\WPFControls\TechMangoWPFControls\TechMangoWPFControls\obj\Debug\App.g.cs
+D:\WPF_ProjectRepository\WPF_repostiory_04-01-23\WPFControls\TechMangoWPFControls\TechMangoWPFControls\obj\Debug\TechMangoWPFControls_MarkupCompile.cache
+D:\WPF_ProjectRepository\WPF_repostiory_04-01-23\WPFControls\TechMangoWPFControls\TechMangoWPFControls\obj\Debug\TechMangoWPFControls_MarkupCompile.lref
+D:\WPF_ProjectRepository\WPF_repostiory_04-01-23\WPFControls\TechMangoWPFControls\TechMangoWPFControls\obj\Debug\ComboBind.baml
+D:\WPF_ProjectRepository\WPF_repostiory_04-01-23\WPFControls\TechMangoWPFControls\TechMangoWPFControls\obj\Debug\DataGrid_Bind.baml
+D:\WPF_ProjectRepository\WPF_repostiory_04-01-23\WPFControls\TechMangoWPFControls\TechMangoWPFControls\obj\Debug\MainWindow.baml
+D:\WPF_ProjectRepository\WPF_repostiory_04-01-23\WPFControls\TechMangoWPFControls\TechMangoWPFControls\obj\Debug\TechMangoWPFControls.g.resources
+D:\WPF_ProjectRepository\WPF_repostiory_04-01-23\WPFControls\TechMangoWPFControls\TechMangoWPFControls\obj\Debug\TechMangoWPFControls.Properties.Resources.resources
+D:\WPF_ProjectRepository\WPF_repostiory_04-01-23\WPFControls\TechMangoWPFControls\TechMangoWPFControls\obj\Debug\TechMangoWPFControls.csproj.GenerateResource.cache
+D:\WPF_ProjectRepository\WPF_repostiory_04-01-23\WPFControls\TechMangoWPFControls\TechMangoWPFControls\obj\Debug\TechMangoWPFControls.csproj.CoreCompileInputs.cache
+D:\WPF_ProjectRepository\WPF_repostiory_04-01-23\WPFControls\TechMangoWPFControls\TechMangoWPFControls\obj\Debug\TechMangoWPFControls.csproj.CopyComplete
+D:\WPF_ProjectRepository\WPF_repostiory_04-01-23\WPFControls\TechMangoWPFControls\TechMangoWPFControls\obj\Debug\TechMangoWPFControls.exe
+D:\WPF_ProjectRepository\WPF_repostiory_04-01-23\WPFControls\TechMangoWPFControls\TechMangoWPFControls\obj\Debug\TechMangoWPFControls.pdb
+D:\WPF_ProjectRepository\WPF_repostiory_UserCtrl_04-01-23\WPFControls\TechMangoWPFControls\TechMangoWPFControls\obj\Debug\TechMangoWPFControls.csproj.AssemblyReference.cache
+D:\WPF_ProjectRepository\WPF_repostiory_UserCtrl_04-01-23\WPFControls\TechMangoWPFControls\TechMangoWPFControls\obj\Debug\ComboBind.g.cs
+D:\WPF_ProjectRepository\WPF_repostiory_UserCtrl_04-01-23\WPFControls\TechMangoWPFControls\TechMangoWPFControls\obj\Debug\DataGrid_Bind.g.cs
+D:\WPF_ProjectRepository\WPF_repostiory_UserCtrl_04-01-23\WPFControls\TechMangoWPFControls\TechMangoWPFControls\obj\Debug\MainWindow.g.cs
+D:\WPF_ProjectRepository\WPF_repostiory_UserCtrl_04-01-23\WPFControls\TechMangoWPFControls\TechMangoWPFControls\obj\Debug\UserControls\UcComboBind.g.cs
+D:\WPF_ProjectRepository\WPF_repostiory_UserCtrl_04-01-23\WPFControls\TechMangoWPFControls\TechMangoWPFControls\obj\Debug\App.g.cs
+D:\WPF_ProjectRepository\WPF_repostiory_UserCtrl_04-01-23\WPFControls\TechMangoWPFControls\TechMangoWPFControls\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\WPF_ProjectRepository\WPF_repostiory_UserCtrl_04-01-23\WPFControls\TechMangoWPFControls\TechMangoWPFControls\obj\Debug\TechMangoWPFControls_MarkupCompile.cache
+D:\WPF_ProjectRepository\WPF_repostiory_UserCtrl_04-01-23\WPFControls\TechMangoWPFControls\TechMangoWPFControls\obj\Debug\TechMangoWPFControls_MarkupCompile.lref
+D:\WPF_ProjectRepository\WPF_repostiory_UserCtrl_04-01-23\WPFControls\TechMangoWPFControls\TechMangoWPFControls\bin\Debug\TechMangoWPFControls.exe.config
+D:\WPF_ProjectRepository\WPF_repostiory_UserCtrl_04-01-23\WPFControls\TechMangoWPFControls\TechMangoWPFControls\bin\Debug\TechMangoWPFControls.exe
+D:\WPF_ProjectRepository\WPF_repostiory_UserCtrl_04-01-23\WPFControls\TechMangoWPFControls\TechMangoWPFControls\bin\Debug\TechMangoWPFControls.pdb
+D:\WPF_ProjectRepository\WPF_repostiory_UserCtrl_04-01-23\WPFControls\TechMangoWPFControls\TechMangoWPFControls\bin\Debug\System.Data.SqlClient.dll
+D:\WPF_ProjectRepository\WPF_repostiory_UserCtrl_04-01-23\WPFControls\TechMangoWPFControls\TechMangoWPFControls\bin\Debug\TMBL.dll
+D:\WPF_ProjectRepository\WPF_repostiory_UserCtrl_04-01-23\WPFControls\TechMangoWPFControls\TechMangoWPFControls\bin\Debug\TMDAL.dll
+D:\WPF_ProjectRepository\WPF_repostiory_UserCtrl_04-01-23\WPFControls\TechMangoWPFControls\TechMangoWPFControls\bin\Debug\TMBL.pdb
+D:\WPF_ProjectRepository\WPF_repostiory_UserCtrl_04-01-23\WPFControls\TechMangoWPFControls\TechMangoWPFControls\bin\Debug\System.Data.SqlClient.xml
+D:\WPF_ProjectRepository\WPF_repostiory_UserCtrl_04-01-23\WPFControls\TechMangoWPFControls\TechMangoWPFControls\bin\Debug\TMDAL.pdb
+D:\WPF_ProjectRepository\WPF_repostiory_UserCtrl_04-01-23\WPFControls\TechMangoWPFControls\TechMangoWPFControls\obj\Debug\ComboBind.baml
+D:\WPF_ProjectRepository\WPF_repostiory_UserCtrl_04-01-23\WPFControls\TechMangoWPFControls\TechMangoWPFControls\obj\Debug\DataGrid_Bind.baml
+D:\WPF_ProjectRepository\WPF_repostiory_UserCtrl_04-01-23\WPFControls\TechMangoWPFControls\TechMangoWPFControls\obj\Debug\MainWindow.baml
+D:\WPF_ProjectRepository\WPF_repostiory_UserCtrl_04-01-23\WPFControls\TechMangoWPFControls\TechMangoWPFControls\obj\Debug\UserControls\UcComboBind.baml
+D:\WPF_ProjectRepository\WPF_repostiory_UserCtrl_04-01-23\WPFControls\TechMangoWPFControls\TechMangoWPFControls\obj\Debug\TechMangoWPFControls.g.resources
+D:\WPF_ProjectRepository\WPF_repostiory_UserCtrl_04-01-23\WPFControls\TechMangoWPFControls\TechMangoWPFControls\obj\Debug\TechMangoWPFControls.Properties.Resources.resources
+D:\WPF_ProjectRepository\WPF_repostiory_UserCtrl_04-01-23\WPFControls\TechMangoWPFControls\TechMangoWPFControls\obj\Debug\TechMangoWPFControls.csproj.GenerateResource.cache
+D:\WPF_ProjectRepository\WPF_repostiory_UserCtrl_04-01-23\WPFControls\TechMangoWPFControls\TechMangoWPFControls\obj\Debug\TechMangoWPFControls.csproj.CoreCompileInputs.cache
+D:\WPF_ProjectRepository\WPF_repostiory_UserCtrl_04-01-23\WPFControls\TechMangoWPFControls\TechMangoWPFControls\obj\Debug\TechMangoWPFControls.csproj.CopyComplete
+D:\WPF_ProjectRepository\WPF_repostiory_UserCtrl_04-01-23\WPFControls\TechMangoWPFControls\TechMangoWPFControls\obj\Debug\TechMangoWPFControls.exe
+D:\WPF_ProjectRepository\WPF_repostiory_UserCtrl_04-01-23\WPFControls\TechMangoWPFControls\TechMangoWPFControls\obj\Debug\TechMangoWPFControls.pdb
+D:\WPF_ProjectRepository\WPF_repostiory_UserCtrl_04-01-23\WPFControls\TechMangoWPFControls\TechMangoWPFControls\obj\Debug\UserControls\UcDataGrid.g.cs
+D:\WPF_ProjectRepository\WPF_repostiory_UserCtrl_04-01-23\WPFControls\TechMangoWPFControls\TechMangoWPFControls\obj\Debug\UserControls\UcDataGrid.baml
+D:\WPF_ProjectRepository\WPF_repostiory_UserCtrl_06-01-23\WPFControls\TechMangoWPFControls\TechMangoWPFControls\bin\Debug\TechMangoWPFControls.exe.config
+D:\WPF_ProjectRepository\WPF_repostiory_UserCtrl_06-01-23\WPFControls\TechMangoWPFControls\TechMangoWPFControls\bin\Debug\TechMangoWPFControls.exe
+D:\WPF_ProjectRepository\WPF_repostiory_UserCtrl_06-01-23\WPFControls\TechMangoWPFControls\TechMangoWPFControls\bin\Debug\TechMangoWPFControls.pdb
+D:\WPF_ProjectRepository\WPF_repostiory_UserCtrl_06-01-23\WPFControls\TechMangoWPFControls\TechMangoWPFControls\bin\Debug\System.Data.SqlClient.dll
+D:\WPF_ProjectRepository\WPF_repostiory_UserCtrl_06-01-23\WPFControls\TechMangoWPFControls\TechMangoWPFControls\bin\Debug\TMBL.dll
+D:\WPF_ProjectRepository\WPF_repostiory_UserCtrl_06-01-23\WPFControls\TechMangoWPFControls\TechMangoWPFControls\bin\Debug\TMDAL.dll
+D:\WPF_ProjectRepository\WPF_repostiory_UserCtrl_06-01-23\WPFControls\TechMangoWPFControls\TechMangoWPFControls\bin\Debug\TMBL.pdb
+D:\WPF_ProjectRepository\WPF_repostiory_UserCtrl_06-01-23\WPFControls\TechMangoWPFControls\TechMangoWPFControls\bin\Debug\System.Data.SqlClient.xml
+D:\WPF_ProjectRepository\WPF_repostiory_UserCtrl_06-01-23\WPFControls\TechMangoWPFControls\TechMangoWPFControls\bin\Debug\TMDAL.pdb
+D:\WPF_ProjectRepository\WPF_repostiory_UserCtrl_06-01-23\WPFControls\TechMangoWPFControls\TechMangoWPFControls\obj\Debug\TechMangoWPFControls.csproj.AssemblyReference.cache
+D:\WPF_ProjectRepository\WPF_repostiory_UserCtrl_06-01-23\WPFControls\TechMangoWPFControls\TechMangoWPFControls\obj\Debug\ComboBind.g.cs
+D:\WPF_ProjectRepository\WPF_repostiory_UserCtrl_06-01-23\WPFControls\TechMangoWPFControls\TechMangoWPFControls\obj\Debug\DataGrid_Bind.g.cs
+D:\WPF_ProjectRepository\WPF_repostiory_UserCtrl_06-01-23\WPFControls\TechMangoWPFControls\TechMangoWPFControls\obj\Debug\MainWindow.g.cs
+D:\WPF_ProjectRepository\WPF_repostiory_UserCtrl_06-01-23\WPFControls\TechMangoWPFControls\TechMangoWPFControls\obj\Debug\UserControls\UcComboBind.g.cs
+D:\WPF_ProjectRepository\WPF_repostiory_UserCtrl_06-01-23\WPFControls\TechMangoWPFControls\TechMangoWPFControls\obj\Debug\UserControls\UcDataGrid.g.cs
+D:\WPF_ProjectRepository\WPF_repostiory_UserCtrl_06-01-23\WPFControls\TechMangoWPFControls\TechMangoWPFControls\obj\Debug\App.g.cs
+D:\WPF_ProjectRepository\WPF_repostiory_UserCtrl_06-01-23\WPFControls\TechMangoWPFControls\TechMangoWPFControls\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\WPF_ProjectRepository\WPF_repostiory_UserCtrl_06-01-23\WPFControls\TechMangoWPFControls\TechMangoWPFControls\obj\Debug\TechMangoWPFControls_MarkupCompile.cache
+D:\WPF_ProjectRepository\WPF_repostiory_UserCtrl_06-01-23\WPFControls\TechMangoWPFControls\TechMangoWPFControls\obj\Debug\TechMangoWPFControls_MarkupCompile.lref
+D:\WPF_ProjectRepository\WPF_repostiory_UserCtrl_06-01-23\WPFControls\TechMangoWPFControls\TechMangoWPFControls\obj\Debug\ComboBind.baml
+D:\WPF_ProjectRepository\WPF_repostiory_UserCtrl_06-01-23\WPFControls\TechMangoWPFControls\TechMangoWPFControls\obj\Debug\DataGrid_Bind.baml
+D:\WPF_ProjectRepository\WPF_repostiory_UserCtrl_06-01-23\WPFControls\TechMangoWPFControls\TechMangoWPFControls\obj\Debug\MainWindow.baml
+D:\WPF_ProjectRepository\WPF_repostiory_UserCtrl_06-01-23\WPFControls\TechMangoWPFControls\TechMangoWPFControls\obj\Debug\UserControls\UcComboBind.baml
+D:\WPF_ProjectRepository\WPF_repostiory_UserCtrl_06-01-23\WPFControls\TechMangoWPFControls\TechMangoWPFControls\obj\Debug\UserControls\UcDataGrid.baml
+D:\WPF_ProjectRepository\WPF_repostiory_UserCtrl_06-01-23\WPFControls\TechMangoWPFControls\TechMangoWPFControls\obj\Debug\TechMangoWPFControls.g.resources
+D:\WPF_ProjectRepository\WPF_repostiory_UserCtrl_06-01-23\WPFControls\TechMangoWPFControls\TechMangoWPFControls\obj\Debug\TechMangoWPFControls.Properties.Resources.resources
+D:\WPF_ProjectRepository\WPF_repostiory_UserCtrl_06-01-23\WPFControls\TechMangoWPFControls\TechMangoWPFControls\obj\Debug\TechMangoWPFControls.csproj.GenerateResource.cache
+D:\WPF_ProjectRepository\WPF_repostiory_UserCtrl_06-01-23\WPFControls\TechMangoWPFControls\TechMangoWPFControls\obj\Debug\TechMangoWPFControls.csproj.CoreCompileInputs.cache
+D:\WPF_ProjectRepository\WPF_repostiory_UserCtrl_06-01-23\WPFControls\TechMangoWPFControls\TechMangoWPFControls\obj\Debug\TechMangoWPFControls.csproj.CopyComplete
+D:\WPF_ProjectRepository\WPF_repostiory_UserCtrl_06-01-23\WPFControls\TechMangoWPFControls\TechMangoWPFControls\obj\Debug\TechMangoWPFControls.exe
+D:\WPF_ProjectRepository\WPF_repostiory_UserCtrl_06-01-23\WPFControls\TechMangoWPFControls\TechMangoWPFControls\obj\Debug\TechMangoWPFControls.pdb
+D:\WPF_ProjectRepository\WPF_3 Tier Repository\WPF_repostiory_UserCtrl_06-01-23\WPFControls\TechMangoWPFControls\TechMangoWPFControls\obj\Debug\TechMangoWPFControls.csproj.AssemblyReference.cache
+D:\WPF_ProjectRepository\WPF_3 Tier Repository\WPF_repostiory_UserCtrl_06-01-23\WPFControls\TechMangoWPFControls\TechMangoWPFControls\obj\Debug\ComboBind.g.cs
+D:\WPF_ProjectRepository\WPF_3 Tier Repository\WPF_repostiory_UserCtrl_06-01-23\WPFControls\TechMangoWPFControls\TechMangoWPFControls\obj\Debug\DataGrid_Bind.g.cs
+D:\WPF_ProjectRepository\WPF_3 Tier Repository\WPF_repostiory_UserCtrl_06-01-23\WPFControls\TechMangoWPFControls\TechMangoWPFControls\obj\Debug\MainWindow.g.cs
+D:\WPF_ProjectRepository\WPF_3 Tier Repository\WPF_repostiory_UserCtrl_06-01-23\WPFControls\TechMangoWPFControls\TechMangoWPFControls\obj\Debug\UserControls\UcComboBind.g.cs
+D:\WPF_ProjectRepository\WPF_3 Tier Repository\WPF_repostiory_UserCtrl_06-01-23\WPFControls\TechMangoWPFControls\TechMangoWPFControls\obj\Debug\UserControls\UcDataGrid.g.cs
+D:\WPF_ProjectRepository\WPF_3 Tier Repository\WPF_repostiory_UserCtrl_06-01-23\WPFControls\TechMangoWPFControls\TechMangoWPFControls\obj\Debug\App.g.cs
+D:\WPF_ProjectRepository\WPF_3 Tier Repository\WPF_repostiory_UserCtrl_06-01-23\WPFControls\TechMangoWPFControls\TechMangoWPFControls\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\WPF_ProjectRepository\WPF_3 Tier Repository\WPF_repostiory_UserCtrl_06-01-23\WPFControls\TechMangoWPFControls\TechMangoWPFControls\obj\Debug\TechMangoWPFControls_MarkupCompile.cache
+D:\WPF_ProjectRepository\WPF_3 Tier Repository\WPF_repostiory_UserCtrl_06-01-23\WPFControls\TechMangoWPFControls\TechMangoWPFControls\obj\Debug\TechMangoWPFControls_MarkupCompile.lref
+D:\WPF_ProjectRepository\WPF_3 Tier Repository\WPF_repostiory_UserCtrl_06-01-23\WPFControls\TechMangoWPFControls\TechMangoWPFControls\obj\Debug\TechMangoWPFControls.exe
+D:\WPF_ProjectRepository\WPF_3 Tier Repository\WPF_repostiory_UserCtrl_06-01-23\WPFControls\TechMangoWPFControls\TechMangoWPFControls\obj\Debug\TechMangoWPFControls.pdb
+D:\WPF_ProjectRepository\WPF_3 Tier Repository\WPF_repostiory_UserCtrl_06-01-23\WPFControls\TechMangoWPFControls\TechMangoWPFControls\bin\Debug\TechMangoWPFControls.exe.config
+D:\WPF_ProjectRepository\WPF_3 Tier Repository\WPF_repostiory_UserCtrl_06-01-23\WPFControls\TechMangoWPFControls\TechMangoWPFControls\bin\Debug\TechMangoWPFControls.exe
+D:\WPF_ProjectRepository\WPF_3 Tier Repository\WPF_repostiory_UserCtrl_06-01-23\WPFControls\TechMangoWPFControls\TechMangoWPFControls\bin\Debug\TechMangoWPFControls.pdb
+D:\WPF_ProjectRepository\WPF_3 Tier Repository\WPF_repostiory_UserCtrl_06-01-23\WPFControls\TechMangoWPFControls\TechMangoWPFControls\bin\Debug\System.Data.SqlClient.dll
+D:\WPF_ProjectRepository\WPF_3 Tier Repository\WPF_repostiory_UserCtrl_06-01-23\WPFControls\TechMangoWPFControls\TechMangoWPFControls\bin\Debug\TMBL.dll
+D:\WPF_ProjectRepository\WPF_3 Tier Repository\WPF_repostiory_UserCtrl_06-01-23\WPFControls\TechMangoWPFControls\TechMangoWPFControls\bin\Debug\TMDAL.dll
+D:\WPF_ProjectRepository\WPF_3 Tier Repository\WPF_repostiory_UserCtrl_06-01-23\WPFControls\TechMangoWPFControls\TechMangoWPFControls\bin\Debug\TMBL.pdb
+D:\WPF_ProjectRepository\WPF_3 Tier Repository\WPF_repostiory_UserCtrl_06-01-23\WPFControls\TechMangoWPFControls\TechMangoWPFControls\bin\Debug\System.Data.SqlClient.xml
+D:\WPF_ProjectRepository\WPF_3 Tier Repository\WPF_repostiory_UserCtrl_06-01-23\WPFControls\TechMangoWPFControls\TechMangoWPFControls\bin\Debug\TMDAL.pdb
+D:\WPF_ProjectRepository\WPF_3 Tier Repository\WPF_repostiory_UserCtrl_06-01-23\WPFControls\TechMangoWPFControls\TechMangoWPFControls\obj\Debug\ComboBind.baml
+D:\WPF_ProjectRepository\WPF_3 Tier Repository\WPF_repostiory_UserCtrl_06-01-23\WPFControls\TechMangoWPFControls\TechMangoWPFControls\obj\Debug\DataGrid_Bind.baml
+D:\WPF_ProjectRepository\WPF_3 Tier Repository\WPF_repostiory_UserCtrl_06-01-23\WPFControls\TechMangoWPFControls\TechMangoWPFControls\obj\Debug\MainWindow.baml
+D:\WPF_ProjectRepository\WPF_3 Tier Repository\WPF_repostiory_UserCtrl_06-01-23\WPFControls\TechMangoWPFControls\TechMangoWPFControls\obj\Debug\UserControls\UcComboBind.baml
+D:\WPF_ProjectRepository\WPF_3 Tier Repository\WPF_repostiory_UserCtrl_06-01-23\WPFControls\TechMangoWPFControls\TechMangoWPFControls\obj\Debug\UserControls\UcDataGrid.baml
+D:\WPF_ProjectRepository\WPF_3 Tier Repository\WPF_repostiory_UserCtrl_06-01-23\WPFControls\TechMangoWPFControls\TechMangoWPFControls\obj\Debug\TechMangoWPFControls.g.resources
+D:\WPF_ProjectRepository\WPF_3 Tier Repository\WPF_repostiory_UserCtrl_06-01-23\WPFControls\TechMangoWPFControls\TechMangoWPFControls\obj\Debug\TechMangoWPFControls.Properties.Resources.resources
+D:\WPF_ProjectRepository\WPF_3 Tier Repository\WPF_repostiory_UserCtrl_06-01-23\WPFControls\TechMangoWPFControls\TechMangoWPFControls\obj\Debug\TechMangoWPFControls.csproj.GenerateResource.cache
+D:\WPF_ProjectRepository\WPF_3 Tier Repository\WPF_repostiory_UserCtrl_06-01-23\WPFControls\TechMangoWPFControls\TechMangoWPFControls\obj\Debug\TechMangoWPFControls.csproj.CoreCompileInputs.cache
+D:\WPF_ProjectRepository\WPF_3 Tier Repository\WPF_repostiory_UserCtrl_06-01-23\WPFControls\TechMangoWPFControls\TechMangoWPFControls\obj\Debug\TechMangoWPFControls.csproj.CopyComplete
+D:\WPF_ProjectRepository\WPF_3 Tier Repository\WPF_repostiory_10-01-23\WPFControls\TechMangoWPFControls\TechMangoWPFControls\bin\Debug\TechMangoWPFControls.exe.config
+D:\WPF_ProjectRepository\WPF_3 Tier Repository\WPF_repostiory_10-01-23\WPFControls\TechMangoWPFControls\TechMangoWPFControls\bin\Debug\TechMangoWPFControls.exe
+D:\WPF_ProjectRepository\WPF_3 Tier Repository\WPF_repostiory_10-01-23\WPFControls\TechMangoWPFControls\TechMangoWPFControls\bin\Debug\TechMangoWPFControls.pdb
+D:\WPF_ProjectRepository\WPF_3 Tier Repository\WPF_repostiory_10-01-23\WPFControls\TechMangoWPFControls\TechMangoWPFControls\bin\Debug\System.Data.SqlClient.dll
+D:\WPF_ProjectRepository\WPF_3 Tier Repository\WPF_repostiory_10-01-23\WPFControls\TechMangoWPFControls\TechMangoWPFControls\bin\Debug\TMBL.dll
+D:\WPF_ProjectRepository\WPF_3 Tier Repository\WPF_repostiory_10-01-23\WPFControls\TechMangoWPFControls\TechMangoWPFControls\bin\Debug\TMDAL.dll
+D:\WPF_ProjectRepository\WPF_3 Tier Repository\WPF_repostiory_10-01-23\WPFControls\TechMangoWPFControls\TechMangoWPFControls\bin\Debug\TMBL.pdb
+D:\WPF_ProjectRepository\WPF_3 Tier Repository\WPF_repostiory_10-01-23\WPFControls\TechMangoWPFControls\TechMangoWPFControls\bin\Debug\System.Data.SqlClient.xml
+D:\WPF_ProjectRepository\WPF_3 Tier Repository\WPF_repostiory_10-01-23\WPFControls\TechMangoWPFControls\TechMangoWPFControls\bin\Debug\TMDAL.pdb
+D:\WPF_ProjectRepository\WPF_3 Tier Repository\WPF_repostiory_10-01-23\WPFControls\TechMangoWPFControls\TechMangoWPFControls\obj\Debug\TechMangoWPFControls.csproj.AssemblyReference.cache
+D:\WPF_ProjectRepository\WPF_3 Tier Repository\WPF_repostiory_10-01-23\WPFControls\TechMangoWPFControls\TechMangoWPFControls\obj\Debug\ComboBind.g.cs
+D:\WPF_ProjectRepository\WPF_3 Tier Repository\WPF_repostiory_10-01-23\WPFControls\TechMangoWPFControls\TechMangoWPFControls\obj\Debug\DataGrid_Bind.g.cs
+D:\WPF_ProjectRepository\WPF_3 Tier Repository\WPF_repostiory_10-01-23\WPFControls\TechMangoWPFControls\TechMangoWPFControls\obj\Debug\MainWindow.g.cs
+D:\WPF_ProjectRepository\WPF_3 Tier Repository\WPF_repostiory_10-01-23\WPFControls\TechMangoWPFControls\TechMangoWPFControls\obj\Debug\UserControls\UcComboBind.g.cs
+D:\WPF_ProjectRepository\WPF_3 Tier Repository\WPF_repostiory_10-01-23\WPFControls\TechMangoWPFControls\TechMangoWPFControls\obj\Debug\UserControls\UcDataGrid.g.cs
+D:\WPF_ProjectRepository\WPF_3 Tier Repository\WPF_repostiory_10-01-23\WPFControls\TechMangoWPFControls\TechMangoWPFControls\obj\Debug\UserControls\UcDataGridComboBox.g.cs
+D:\WPF_ProjectRepository\WPF_3 Tier Repository\WPF_repostiory_10-01-23\WPFControls\TechMangoWPFControls\TechMangoWPFControls\obj\Debug\App.g.cs
+D:\WPF_ProjectRepository\WPF_3 Tier Repository\WPF_repostiory_10-01-23\WPFControls\TechMangoWPFControls\TechMangoWPFControls\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\WPF_ProjectRepository\WPF_3 Tier Repository\WPF_repostiory_10-01-23\WPFControls\TechMangoWPFControls\TechMangoWPFControls\obj\Debug\TechMangoWPFControls_MarkupCompile.cache
+D:\WPF_ProjectRepository\WPF_3 Tier Repository\WPF_repostiory_10-01-23\WPFControls\TechMangoWPFControls\TechMangoWPFControls\obj\Debug\TechMangoWPFControls_MarkupCompile.lref
+D:\WPF_ProjectRepository\WPF_3 Tier Repository\WPF_repostiory_10-01-23\WPFControls\TechMangoWPFControls\TechMangoWPFControls\obj\Debug\ComboBind.baml
+D:\WPF_ProjectRepository\WPF_3 Tier Repository\WPF_repostiory_10-01-23\WPFControls\TechMangoWPFControls\TechMangoWPFControls\obj\Debug\DataGrid_Bind.baml
+D:\WPF_ProjectRepository\WPF_3 Tier Repository\WPF_repostiory_10-01-23\WPFControls\TechMangoWPFControls\TechMangoWPFControls\obj\Debug\MainWindow.baml
+D:\WPF_ProjectRepository\WPF_3 Tier Repository\WPF_repostiory_10-01-23\WPFControls\TechMangoWPFControls\TechMangoWPFControls\obj\Debug\UserControls\UcComboBind.baml
+D:\WPF_ProjectRepository\WPF_3 Tier Repository\WPF_repostiory_10-01-23\WPFControls\TechMangoWPFControls\TechMangoWPFControls\obj\Debug\UserControls\UcDataGrid.baml
+D:\WPF_ProjectRepository\WPF_3 Tier Repository\WPF_repostiory_10-01-23\WPFControls\TechMangoWPFControls\TechMangoWPFControls\obj\Debug\UserControls\UcDataGridComboBox.baml
+D:\WPF_ProjectRepository\WPF_3 Tier Repository\WPF_repostiory_10-01-23\WPFControls\TechMangoWPFControls\TechMangoWPFControls\obj\Debug\TechMangoWPFControls.g.resources
+D:\WPF_ProjectRepository\WPF_3 Tier Repository\WPF_repostiory_10-01-23\WPFControls\TechMangoWPFControls\TechMangoWPFControls\obj\Debug\TechMangoWPFControls.Properties.Resources.resources
+D:\WPF_ProjectRepository\WPF_3 Tier Repository\WPF_repostiory_10-01-23\WPFControls\TechMangoWPFControls\TechMangoWPFControls\obj\Debug\TechMangoWPFControls.csproj.GenerateResource.cache
+D:\WPF_ProjectRepository\WPF_3 Tier Repository\WPF_repostiory_10-01-23\WPFControls\TechMangoWPFControls\TechMangoWPFControls\obj\Debug\TechMangoWPFControls.csproj.CoreCompileInputs.cache
+D:\WPF_ProjectRepository\WPF_3 Tier Repository\WPF_repostiory_10-01-23\WPFControls\TechMangoWPFControls\TechMangoWPFControls\obj\Debug\TechMangoWPFControls.csproj.CopyComplete
+D:\WPF_ProjectRepository\WPF_3 Tier Repository\WPF_repostiory_10-01-23\WPFControls\TechMangoWPFControls\TechMangoWPFControls\obj\Debug\TechMangoWPFControls.exe
+D:\WPF_ProjectRepository\WPF_3 Tier Repository\WPF_repostiory_10-01-23\WPFControls\TechMangoWPFControls\TechMangoWPFControls\obj\Debug\TechMangoWPFControls.pdb

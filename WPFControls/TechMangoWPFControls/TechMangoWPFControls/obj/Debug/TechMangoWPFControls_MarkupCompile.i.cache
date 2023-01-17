@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-D:\WPF-Framework\WPFMaterials\WPFControls\TechMangoWPFControls\TechMangoWPFControls\obj\Debug\
+D:\WPF_ProjectRepository\WPF_3 Tier Repository\WPF_repostiory_10-01-23\WPFControls\TechMangoWPFControls\TechMangoWPFControls\obj\Debug\
 TechMangoWPFControls
 none
 false
 DEBUG;TRACE
-D:\WPF-Framework\WPFMaterials\WPFControls\TechMangoWPFControls\TechMangoWPFControls\App.xaml
-11151548125
+D:\WPF_ProjectRepository\WPF_3 Tier Repository\WPF_repostiory_10-01-23\WPFControls\TechMangoWPFControls\TechMangoWPFControls\App.xaml
+6-1826782472
 
-61434861427
-15105265058
-MainWindow.xaml;
+11157216176
+16843929601
+ComboBind.xaml;DataGrid_Bind.xaml;MainWindow.xaml;UserControls\UcComboBind.xaml;UserControls\UcDataGrid.xaml;UserControls\UcDataGridComboBox.xaml;
 
-False
+True
 

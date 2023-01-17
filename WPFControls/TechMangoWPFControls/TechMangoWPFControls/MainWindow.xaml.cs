@@ -28,11 +28,23 @@ namespace TechMangoWPFControls
             InitializeComponent();
         }
 
-        private void ControlForm_Loaded(object sender, RoutedEventArgs e)
+     
+        private void Button_Click(object sender, RoutedEventArgs e)
         {
-            ComboControlLib obj = new ComboControlLib();
-            DataTable dt = obj.BindComboControls();
+            DataGrid_Bind dgbind = new DataGrid_Bind();
+            dgbind.Show();
+          
+        }
 
+
+        private void Button_Click_1(object sender, RoutedEventArgs e)
+        {
+            ComboBind bind = new ComboBind();
+            bind.Show();
+        }
+        private void exittab_GotFocus(object sender, RoutedEventArgs e)
+        {
+            this.Close();
         }
     }
 }

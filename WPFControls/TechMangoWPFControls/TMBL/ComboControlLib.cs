@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.Data;
 using System.Text;
+using TMDAL;
 
 namespace TMBL
 {
@@ -9,8 +10,11 @@ namespace TMBL
     {
         public DataTable BindComboControls()
         {
-            DataTable Dt = new DataTable();
-            return Dt;
+            string SqlQuery = "select * from Tbl_EmployeeTest";
+            DataTable dt = new DataTable();
+            PersonDAL objdal = new PersonDAL();
+            return objdal.Bind(SqlQuery); 
+
         }
     }
 }

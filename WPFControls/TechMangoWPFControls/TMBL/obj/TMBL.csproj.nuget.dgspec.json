@@ -1,38 +1,35 @@
 {
   "format": 1,
   "restore": {
-    "D:\\WPF-Framework\\WPFMaterials\\WPFControls\\TechMangoWPFControls\\TMBL\\TMBL.csproj": {}
+    "D:\\WPF_ProjectRepository\\WPF_3 Tier Repository\\WPF_repostiory_10-01-23\\WPFControls\\TechMangoWPFControls\\TMBL\\TMBL.csproj": {}
   },
   "projects": {
-    "D:\\WPF-Framework\\WPFMaterials\\WPFControls\\TechMangoWPFControls\\TMBL\\TMBL.csproj": {
+    "D:\\WPF_ProjectRepository\\WPF_3 Tier Repository\\WPF_repostiory_10-01-23\\WPFControls\\TechMangoWPFControls\\TMBL\\TMBL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\WPF-Framework\\WPFMaterials\\WPFControls\\TechMangoWPFControls\\TMBL\\TMBL.csproj",
+        "projectUniqueName": "D:\\WPF_ProjectRepository\\WPF_3 Tier Repository\\WPF_repostiory_10-01-23\\WPFControls\\TechMangoWPFControls\\TMBL\\TMBL.csproj",
         "projectName": "TMBL",
-        "projectPath": "D:\\WPF-Framework\\WPFMaterials\\WPFControls\\TechMangoWPFControls\\TMBL\\TMBL.csproj",
-        "packagesPath": "C:\\Users\\sys-user\\.nuget\\packages\\",
-        "outputPath": "D:\\WPF-Framework\\WPFMaterials\\WPFControls\\TechMangoWPFControls\\TMBL\\obj\\",
+        "projectPath": "D:\\WPF_ProjectRepository\\WPF_3 Tier Repository\\WPF_repostiory_10-01-23\\WPFControls\\TechMangoWPFControls\\TMBL\\TMBL.csproj",
+        "packagesPath": "C:\\Users\\tts-440-nagalakshmi\\.nuget\\packages\\",
+        "outputPath": "D:\\WPF_ProjectRepository\\WPF_3 Tier Repository\\WPF_repostiory_10-01-23\\WPFControls\\TechMangoWPFControls\\TMBL\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\sys-user\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\tts-440-nagalakshmi\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netstandard2.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "D:\\ClassLibraryTutorial\\Tutorial1\\Tutorial1\\bin": {},
-          "D:\\Library\\JWTHelpers\\JWTHelpers\\bin\\Debug": {},
-          "D:\\Project2\\TechmangoFramework\\TechMangoFrameWork\\TechMangoFrameWork\\bin": {},
-          "https://www.nuget.org/api/v2/": {}
+          "D:\\WPF_Project\\ClassLibrarycreation\\PackageCreation\\NDemoPackage\\bin": {},
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "netstandard2.0": {
             "targetAlias": "netstandard2.0",
             "projectReferences": {
-              "D:\\WPF-Framework\\WPFMaterials\\WPFControls\\TechMangoWPFControls\\TMDAL\\TMDAL.csproj": {
-                "projectPath": "D:\\WPF-Framework\\WPFMaterials\\WPFControls\\TechMangoWPFControls\\TMDAL\\TMDAL.csproj"
+              "D:\\WPF_ProjectRepository\\WPF_3 Tier Repository\\WPF_repostiory_10-01-23\\WPFControls\\TechMangoWPFControls\\TMDAL\\TMDAL.csproj": {
+                "projectPath": "D:\\WPF_ProjectRepository\\WPF_3 Tier Repository\\WPF_repostiory_10-01-23\\WPFControls\\TechMangoWPFControls\\TMDAL\\TMDAL.csproj"
               }
             }
           }
@@ -52,6 +49,10 @@
               "target": "Package",
               "version": "[2.0.3, )",
               "autoReferenced": true
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.5, )"
             }
           },
           "imports": [
@@ -64,32 +65,29 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.416\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\WPF-Framework\\WPFMaterials\\WPFControls\\TechMangoWPFControls\\TMDAL\\TMDAL.csproj": {
+    "D:\\WPF_ProjectRepository\\WPF_3 Tier Repository\\WPF_repostiory_10-01-23\\WPFControls\\TechMangoWPFControls\\TMDAL\\TMDAL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\WPF-Framework\\WPFMaterials\\WPFControls\\TechMangoWPFControls\\TMDAL\\TMDAL.csproj",
+        "projectUniqueName": "D:\\WPF_ProjectRepository\\WPF_3 Tier Repository\\WPF_repostiory_10-01-23\\WPFControls\\TechMangoWPFControls\\TMDAL\\TMDAL.csproj",
         "projectName": "TMDAL",
-        "projectPath": "D:\\WPF-Framework\\WPFMaterials\\WPFControls\\TechMangoWPFControls\\TMDAL\\TMDAL.csproj",
-        "packagesPath": "C:\\Users\\sys-user\\.nuget\\packages\\",
-        "outputPath": "D:\\WPF-Framework\\WPFMaterials\\WPFControls\\TechMangoWPFControls\\TMDAL\\obj\\",
+        "projectPath": "D:\\WPF_ProjectRepository\\WPF_3 Tier Repository\\WPF_repostiory_10-01-23\\WPFControls\\TechMangoWPFControls\\TMDAL\\TMDAL.csproj",
+        "packagesPath": "C:\\Users\\tts-440-nagalakshmi\\.nuget\\packages\\",
+        "outputPath": "D:\\WPF_ProjectRepository\\WPF_3 Tier Repository\\WPF_repostiory_10-01-23\\WPFControls\\TechMangoWPFControls\\TMDAL\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\sys-user\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\tts-440-nagalakshmi\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netstandard2.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "D:\\ClassLibraryTutorial\\Tutorial1\\Tutorial1\\bin": {},
-          "D:\\Library\\JWTHelpers\\JWTHelpers\\bin\\Debug": {},
-          "D:\\Project2\\TechmangoFramework\\TechMangoFrameWork\\TechMangoFrameWork\\bin": {},
-          "https://www.nuget.org/api/v2/": {}
+          "D:\\WPF_Project\\ClassLibrarycreation\\PackageCreation\\NDemoPackage\\bin": {},
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "netstandard2.0": {
@@ -112,6 +110,10 @@
               "target": "Package",
               "version": "[2.0.3, )",
               "autoReferenced": true
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.5, )"
             }
           },
           "imports": [
@@ -124,7 +126,7 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.416\\RuntimeIdentifierGraph.json"
         }
       }
     }

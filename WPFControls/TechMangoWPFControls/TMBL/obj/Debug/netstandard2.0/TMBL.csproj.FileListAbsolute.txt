@@ -10,3 +10,107 @@ D:\WPF-Framework\WPFMaterials\WPFControls\TechMangoWPFControls\TMBL\bin\Debug\ne
 D:\WPF-Framework\WPFMaterials\WPFControls\TechMangoWPFControls\TMBL\bin\Debug\netstandard2.0\TMDAL.pdb
 D:\WPF-Framework\WPFMaterials\WPFControls\TechMangoWPFControls\TMBL\obj\Debug\netstandard2.0\TMBL.csproj.AssemblyReference.cache
 D:\WPF-Framework\WPFMaterials\WPFControls\TechMangoWPFControls\TMBL\obj\Debug\netstandard2.0\TMBL.csproj.CopyComplete
+D:\WPF_ProjectRepository\WPF_repostiory_31-12\WPFControls\TechMangoWPFControls\TMBL\bin\Debug\netstandard2.0\TMBL.deps.json
+D:\WPF_ProjectRepository\WPF_repostiory_31-12\WPFControls\TechMangoWPFControls\TMBL\bin\Debug\netstandard2.0\TMBL.dll
+D:\WPF_ProjectRepository\WPF_repostiory_31-12\WPFControls\TechMangoWPFControls\TMBL\bin\Debug\netstandard2.0\TMBL.pdb
+D:\WPF_ProjectRepository\WPF_repostiory_31-12\WPFControls\TechMangoWPFControls\TMBL\bin\Debug\netstandard2.0\TMDAL.dll
+D:\WPF_ProjectRepository\WPF_repostiory_31-12\WPFControls\TechMangoWPFControls\TMBL\bin\Debug\netstandard2.0\TMDAL.pdb
+D:\WPF_ProjectRepository\WPF_repostiory_31-12\WPFControls\TechMangoWPFControls\TMBL\obj\Debug\netstandard2.0\TMBL.csproj.AssemblyReference.cache
+D:\WPF_ProjectRepository\WPF_repostiory_31-12\WPFControls\TechMangoWPFControls\TMBL\obj\Debug\netstandard2.0\TMBL.GeneratedMSBuildEditorConfig.editorconfig
+D:\WPF_ProjectRepository\WPF_repostiory_31-12\WPFControls\TechMangoWPFControls\TMBL\obj\Debug\netstandard2.0\TMBL.AssemblyInfoInputs.cache
+D:\WPF_ProjectRepository\WPF_repostiory_31-12\WPFControls\TechMangoWPFControls\TMBL\obj\Debug\netstandard2.0\TMBL.AssemblyInfo.cs
+D:\WPF_ProjectRepository\WPF_repostiory_31-12\WPFControls\TechMangoWPFControls\TMBL\obj\Debug\netstandard2.0\TMBL.csproj.CoreCompileInputs.cache
+D:\WPF_ProjectRepository\WPF_repostiory_31-12\WPFControls\TechMangoWPFControls\TMBL\obj\Debug\netstandard2.0\TMBL.csproj.CopyComplete
+D:\WPF_ProjectRepository\WPF_repostiory_31-12\WPFControls\TechMangoWPFControls\TMBL\obj\Debug\netstandard2.0\TMBL.dll
+D:\WPF_ProjectRepository\WPF_repostiory_31-12\WPFControls\TechMangoWPFControls\TMBL\obj\Debug\netstandard2.0\TMBL.pdb
+D:\WPF_ProjectRepository\WPF_repostiory_02-01-23\WPFControls\TechMangoWPFControls\TMBL\obj\Debug\netstandard2.0\TMBL.csproj.AssemblyReference.cache
+D:\WPF_ProjectRepository\WPF_repostiory_02-01-23\WPFControls\TechMangoWPFControls\TMBL\obj\Debug\netstandard2.0\TMBL.GeneratedMSBuildEditorConfig.editorconfig
+D:\WPF_ProjectRepository\WPF_repostiory_02-01-23\WPFControls\TechMangoWPFControls\TMBL\obj\Debug\netstandard2.0\TMBL.AssemblyInfoInputs.cache
+D:\WPF_ProjectRepository\WPF_repostiory_02-01-23\WPFControls\TechMangoWPFControls\TMBL\obj\Debug\netstandard2.0\TMBL.AssemblyInfo.cs
+D:\WPF_ProjectRepository\WPF_repostiory_02-01-23\WPFControls\TechMangoWPFControls\TMBL\obj\Debug\netstandard2.0\TMBL.csproj.CoreCompileInputs.cache
+D:\WPF_ProjectRepository\WPF_repostiory_02-01-23\WPFControls\TechMangoWPFControls\TMBL\obj\Debug\netstandard2.0\TMBL.dll
+D:\WPF_ProjectRepository\WPF_repostiory_02-01-23\WPFControls\TechMangoWPFControls\TMBL\obj\Debug\netstandard2.0\TMBL.pdb
+D:\WPF_ProjectRepository\WPF_repostiory_02-01-23\WPFControls\TechMangoWPFControls\TMBL\bin\Debug\netstandard2.0\TMBL.deps.json
+D:\WPF_ProjectRepository\WPF_repostiory_02-01-23\WPFControls\TechMangoWPFControls\TMBL\bin\Debug\netstandard2.0\TMBL.dll
+D:\WPF_ProjectRepository\WPF_repostiory_02-01-23\WPFControls\TechMangoWPFControls\TMBL\bin\Debug\netstandard2.0\TMBL.pdb
+D:\WPF_ProjectRepository\WPF_repostiory_02-01-23\WPFControls\TechMangoWPFControls\TMBL\bin\Debug\netstandard2.0\TMDAL.dll
+D:\WPF_ProjectRepository\WPF_repostiory_02-01-23\WPFControls\TechMangoWPFControls\TMBL\bin\Debug\netstandard2.0\TMDAL.pdb
+D:\WPF_ProjectRepository\WPF_repostiory_02-01-23\WPFControls\TechMangoWPFControls\TMBL\obj\Debug\netstandard2.0\TMBL.csproj.CopyComplete
+D:\WPF_ProjectRepository\WPF_repostiory_02-01-23 - Copy\WPFControls\TechMangoWPFControls\TMBL\bin\Debug\netstandard2.0\TMBL.deps.json
+D:\WPF_ProjectRepository\WPF_repostiory_02-01-23 - Copy\WPFControls\TechMangoWPFControls\TMBL\bin\Debug\netstandard2.0\TMBL.dll
+D:\WPF_ProjectRepository\WPF_repostiory_02-01-23 - Copy\WPFControls\TechMangoWPFControls\TMBL\bin\Debug\netstandard2.0\TMBL.pdb
+D:\WPF_ProjectRepository\WPF_repostiory_02-01-23 - Copy\WPFControls\TechMangoWPFControls\TMBL\bin\Debug\netstandard2.0\TMDAL.dll
+D:\WPF_ProjectRepository\WPF_repostiory_02-01-23 - Copy\WPFControls\TechMangoWPFControls\TMBL\bin\Debug\netstandard2.0\TMDAL.pdb
+D:\WPF_ProjectRepository\WPF_repostiory_02-01-23 - Copy\WPFControls\TechMangoWPFControls\TMBL\obj\Debug\netstandard2.0\TMBL.csproj.AssemblyReference.cache
+D:\WPF_ProjectRepository\WPF_repostiory_02-01-23 - Copy\WPFControls\TechMangoWPFControls\TMBL\obj\Debug\netstandard2.0\TMBL.GeneratedMSBuildEditorConfig.editorconfig
+D:\WPF_ProjectRepository\WPF_repostiory_02-01-23 - Copy\WPFControls\TechMangoWPFControls\TMBL\obj\Debug\netstandard2.0\TMBL.AssemblyInfoInputs.cache
+D:\WPF_ProjectRepository\WPF_repostiory_02-01-23 - Copy\WPFControls\TechMangoWPFControls\TMBL\obj\Debug\netstandard2.0\TMBL.AssemblyInfo.cs
+D:\WPF_ProjectRepository\WPF_repostiory_02-01-23 - Copy\WPFControls\TechMangoWPFControls\TMBL\obj\Debug\netstandard2.0\TMBL.csproj.CoreCompileInputs.cache
+D:\WPF_ProjectRepository\WPF_repostiory_02-01-23 - Copy\WPFControls\TechMangoWPFControls\TMBL\obj\Debug\netstandard2.0\TMBL.csproj.CopyComplete
+D:\WPF_ProjectRepository\WPF_repostiory_02-01-23 - Copy\WPFControls\TechMangoWPFControls\TMBL\obj\Debug\netstandard2.0\TMBL.dll
+D:\WPF_ProjectRepository\WPF_repostiory_02-01-23 - Copy\WPFControls\TechMangoWPFControls\TMBL\obj\Debug\netstandard2.0\TMBL.pdb
+D:\WPF_ProjectRepository\WPF_repostiory_04-01-23\WPFControls\TechMangoWPFControls\TMBL\bin\Debug\netstandard2.0\TMBL.deps.json
+D:\WPF_ProjectRepository\WPF_repostiory_04-01-23\WPFControls\TechMangoWPFControls\TMBL\bin\Debug\netstandard2.0\TMBL.dll
+D:\WPF_ProjectRepository\WPF_repostiory_04-01-23\WPFControls\TechMangoWPFControls\TMBL\bin\Debug\netstandard2.0\TMBL.pdb
+D:\WPF_ProjectRepository\WPF_repostiory_04-01-23\WPFControls\TechMangoWPFControls\TMBL\bin\Debug\netstandard2.0\TMDAL.dll
+D:\WPF_ProjectRepository\WPF_repostiory_04-01-23\WPFControls\TechMangoWPFControls\TMBL\bin\Debug\netstandard2.0\TMDAL.pdb
+D:\WPF_ProjectRepository\WPF_repostiory_04-01-23\WPFControls\TechMangoWPFControls\TMBL\obj\Debug\netstandard2.0\TMBL.csproj.AssemblyReference.cache
+D:\WPF_ProjectRepository\WPF_repostiory_04-01-23\WPFControls\TechMangoWPFControls\TMBL\obj\Debug\netstandard2.0\TMBL.GeneratedMSBuildEditorConfig.editorconfig
+D:\WPF_ProjectRepository\WPF_repostiory_04-01-23\WPFControls\TechMangoWPFControls\TMBL\obj\Debug\netstandard2.0\TMBL.AssemblyInfoInputs.cache
+D:\WPF_ProjectRepository\WPF_repostiory_04-01-23\WPFControls\TechMangoWPFControls\TMBL\obj\Debug\netstandard2.0\TMBL.AssemblyInfo.cs
+D:\WPF_ProjectRepository\WPF_repostiory_04-01-23\WPFControls\TechMangoWPFControls\TMBL\obj\Debug\netstandard2.0\TMBL.csproj.CoreCompileInputs.cache
+D:\WPF_ProjectRepository\WPF_repostiory_04-01-23\WPFControls\TechMangoWPFControls\TMBL\obj\Debug\netstandard2.0\TMBL.csproj.CopyComplete
+D:\WPF_ProjectRepository\WPF_repostiory_04-01-23\WPFControls\TechMangoWPFControls\TMBL\obj\Debug\netstandard2.0\TMBL.dll
+D:\WPF_ProjectRepository\WPF_repostiory_04-01-23\WPFControls\TechMangoWPFControls\TMBL\obj\Debug\netstandard2.0\TMBL.pdb
+D:\WPF_ProjectRepository\WPF_repostiory_UserCtrl_04-01-23\WPFControls\TechMangoWPFControls\TMBL\bin\Debug\netstandard2.0\TMBL.deps.json
+D:\WPF_ProjectRepository\WPF_repostiory_UserCtrl_04-01-23\WPFControls\TechMangoWPFControls\TMBL\bin\Debug\netstandard2.0\TMBL.dll
+D:\WPF_ProjectRepository\WPF_repostiory_UserCtrl_04-01-23\WPFControls\TechMangoWPFControls\TMBL\bin\Debug\netstandard2.0\TMBL.pdb
+D:\WPF_ProjectRepository\WPF_repostiory_UserCtrl_04-01-23\WPFControls\TechMangoWPFControls\TMBL\bin\Debug\netstandard2.0\TMDAL.dll
+D:\WPF_ProjectRepository\WPF_repostiory_UserCtrl_04-01-23\WPFControls\TechMangoWPFControls\TMBL\bin\Debug\netstandard2.0\TMDAL.pdb
+D:\WPF_ProjectRepository\WPF_repostiory_UserCtrl_04-01-23\WPFControls\TechMangoWPFControls\TMBL\obj\Debug\netstandard2.0\TMBL.csproj.AssemblyReference.cache
+D:\WPF_ProjectRepository\WPF_repostiory_UserCtrl_04-01-23\WPFControls\TechMangoWPFControls\TMBL\obj\Debug\netstandard2.0\TMBL.GeneratedMSBuildEditorConfig.editorconfig
+D:\WPF_ProjectRepository\WPF_repostiory_UserCtrl_04-01-23\WPFControls\TechMangoWPFControls\TMBL\obj\Debug\netstandard2.0\TMBL.AssemblyInfoInputs.cache
+D:\WPF_ProjectRepository\WPF_repostiory_UserCtrl_04-01-23\WPFControls\TechMangoWPFControls\TMBL\obj\Debug\netstandard2.0\TMBL.AssemblyInfo.cs
+D:\WPF_ProjectRepository\WPF_repostiory_UserCtrl_04-01-23\WPFControls\TechMangoWPFControls\TMBL\obj\Debug\netstandard2.0\TMBL.csproj.CoreCompileInputs.cache
+D:\WPF_ProjectRepository\WPF_repostiory_UserCtrl_04-01-23\WPFControls\TechMangoWPFControls\TMBL\obj\Debug\netstandard2.0\TMBL.csproj.CopyComplete
+D:\WPF_ProjectRepository\WPF_repostiory_UserCtrl_04-01-23\WPFControls\TechMangoWPFControls\TMBL\obj\Debug\netstandard2.0\TMBL.dll
+D:\WPF_ProjectRepository\WPF_repostiory_UserCtrl_04-01-23\WPFControls\TechMangoWPFControls\TMBL\obj\Debug\netstandard2.0\TMBL.pdb
+D:\WPF_ProjectRepository\WPF_repostiory_UserCtrl_06-01-23\WPFControls\TechMangoWPFControls\TMBL\bin\Debug\netstandard2.0\TMBL.deps.json
+D:\WPF_ProjectRepository\WPF_repostiory_UserCtrl_06-01-23\WPFControls\TechMangoWPFControls\TMBL\bin\Debug\netstandard2.0\TMBL.dll
+D:\WPF_ProjectRepository\WPF_repostiory_UserCtrl_06-01-23\WPFControls\TechMangoWPFControls\TMBL\bin\Debug\netstandard2.0\TMBL.pdb
+D:\WPF_ProjectRepository\WPF_repostiory_UserCtrl_06-01-23\WPFControls\TechMangoWPFControls\TMBL\bin\Debug\netstandard2.0\TMDAL.dll
+D:\WPF_ProjectRepository\WPF_repostiory_UserCtrl_06-01-23\WPFControls\TechMangoWPFControls\TMBL\bin\Debug\netstandard2.0\TMDAL.pdb
+D:\WPF_ProjectRepository\WPF_repostiory_UserCtrl_06-01-23\WPFControls\TechMangoWPFControls\TMBL\obj\Debug\netstandard2.0\TMBL.csproj.AssemblyReference.cache
+D:\WPF_ProjectRepository\WPF_repostiory_UserCtrl_06-01-23\WPFControls\TechMangoWPFControls\TMBL\obj\Debug\netstandard2.0\TMBL.GeneratedMSBuildEditorConfig.editorconfig
+D:\WPF_ProjectRepository\WPF_repostiory_UserCtrl_06-01-23\WPFControls\TechMangoWPFControls\TMBL\obj\Debug\netstandard2.0\TMBL.AssemblyInfoInputs.cache
+D:\WPF_ProjectRepository\WPF_repostiory_UserCtrl_06-01-23\WPFControls\TechMangoWPFControls\TMBL\obj\Debug\netstandard2.0\TMBL.AssemblyInfo.cs
+D:\WPF_ProjectRepository\WPF_repostiory_UserCtrl_06-01-23\WPFControls\TechMangoWPFControls\TMBL\obj\Debug\netstandard2.0\TMBL.csproj.CoreCompileInputs.cache
+D:\WPF_ProjectRepository\WPF_repostiory_UserCtrl_06-01-23\WPFControls\TechMangoWPFControls\TMBL\obj\Debug\netstandard2.0\TMBL.csproj.CopyComplete
+D:\WPF_ProjectRepository\WPF_repostiory_UserCtrl_06-01-23\WPFControls\TechMangoWPFControls\TMBL\obj\Debug\netstandard2.0\TMBL.dll
+D:\WPF_ProjectRepository\WPF_repostiory_UserCtrl_06-01-23\WPFControls\TechMangoWPFControls\TMBL\obj\Debug\netstandard2.0\TMBL.pdb
+D:\WPF_ProjectRepository\WPF_3 Tier Repository\WPF_repostiory_UserCtrl_06-01-23\WPFControls\TechMangoWPFControls\TMBL\bin\Debug\netstandard2.0\TMBL.deps.json
+D:\WPF_ProjectRepository\WPF_3 Tier Repository\WPF_repostiory_UserCtrl_06-01-23\WPFControls\TechMangoWPFControls\TMBL\bin\Debug\netstandard2.0\TMBL.dll
+D:\WPF_ProjectRepository\WPF_3 Tier Repository\WPF_repostiory_UserCtrl_06-01-23\WPFControls\TechMangoWPFControls\TMBL\bin\Debug\netstandard2.0\TMBL.pdb
+D:\WPF_ProjectRepository\WPF_3 Tier Repository\WPF_repostiory_UserCtrl_06-01-23\WPFControls\TechMangoWPFControls\TMBL\bin\Debug\netstandard2.0\TMDAL.dll
+D:\WPF_ProjectRepository\WPF_3 Tier Repository\WPF_repostiory_UserCtrl_06-01-23\WPFControls\TechMangoWPFControls\TMBL\bin\Debug\netstandard2.0\TMDAL.pdb
+D:\WPF_ProjectRepository\WPF_3 Tier Repository\WPF_repostiory_UserCtrl_06-01-23\WPFControls\TechMangoWPFControls\TMBL\obj\Debug\netstandard2.0\TMBL.csproj.AssemblyReference.cache
+D:\WPF_ProjectRepository\WPF_3 Tier Repository\WPF_repostiory_UserCtrl_06-01-23\WPFControls\TechMangoWPFControls\TMBL\obj\Debug\netstandard2.0\TMBL.GeneratedMSBuildEditorConfig.editorconfig
+D:\WPF_ProjectRepository\WPF_3 Tier Repository\WPF_repostiory_UserCtrl_06-01-23\WPFControls\TechMangoWPFControls\TMBL\obj\Debug\netstandard2.0\TMBL.AssemblyInfoInputs.cache
+D:\WPF_ProjectRepository\WPF_3 Tier Repository\WPF_repostiory_UserCtrl_06-01-23\WPFControls\TechMangoWPFControls\TMBL\obj\Debug\netstandard2.0\TMBL.AssemblyInfo.cs
+D:\WPF_ProjectRepository\WPF_3 Tier Repository\WPF_repostiory_UserCtrl_06-01-23\WPFControls\TechMangoWPFControls\TMBL\obj\Debug\netstandard2.0\TMBL.csproj.CoreCompileInputs.cache
+D:\WPF_ProjectRepository\WPF_3 Tier Repository\WPF_repostiory_UserCtrl_06-01-23\WPFControls\TechMangoWPFControls\TMBL\obj\Debug\netstandard2.0\TMBL.csproj.CopyComplete
+D:\WPF_ProjectRepository\WPF_3 Tier Repository\WPF_repostiory_UserCtrl_06-01-23\WPFControls\TechMangoWPFControls\TMBL\obj\Debug\netstandard2.0\TMBL.dll
+D:\WPF_ProjectRepository\WPF_3 Tier Repository\WPF_repostiory_UserCtrl_06-01-23\WPFControls\TechMangoWPFControls\TMBL\obj\Debug\netstandard2.0\TMBL.pdb
+D:\WPF_ProjectRepository\WPF_3 Tier Repository\WPF_repostiory_10-01-23\WPFControls\TechMangoWPFControls\TMBL\bin\Debug\netstandard2.0\TMBL.deps.json
+D:\WPF_ProjectRepository\WPF_3 Tier Repository\WPF_repostiory_10-01-23\WPFControls\TechMangoWPFControls\TMBL\bin\Debug\netstandard2.0\TMBL.dll
+D:\WPF_ProjectRepository\WPF_3 Tier Repository\WPF_repostiory_10-01-23\WPFControls\TechMangoWPFControls\TMBL\bin\Debug\netstandard2.0\TMBL.pdb
+D:\WPF_ProjectRepository\WPF_3 Tier Repository\WPF_repostiory_10-01-23\WPFControls\TechMangoWPFControls\TMBL\bin\Debug\netstandard2.0\TMDAL.dll
+D:\WPF_ProjectRepository\WPF_3 Tier Repository\WPF_repostiory_10-01-23\WPFControls\TechMangoWPFControls\TMBL\bin\Debug\netstandard2.0\TMDAL.pdb
+D:\WPF_ProjectRepository\WPF_3 Tier Repository\WPF_repostiory_10-01-23\WPFControls\TechMangoWPFControls\TMBL\obj\Debug\netstandard2.0\TMBL.csproj.AssemblyReference.cache
+D:\WPF_ProjectRepository\WPF_3 Tier Repository\WPF_repostiory_10-01-23\WPFControls\TechMangoWPFControls\TMBL\obj\Debug\netstandard2.0\TMBL.GeneratedMSBuildEditorConfig.editorconfig
+D:\WPF_ProjectRepository\WPF_3 Tier Repository\WPF_repostiory_10-01-23\WPFControls\TechMangoWPFControls\TMBL\obj\Debug\netstandard2.0\TMBL.AssemblyInfoInputs.cache
+D:\WPF_ProjectRepository\WPF_3 Tier Repository\WPF_repostiory_10-01-23\WPFControls\TechMangoWPFControls\TMBL\obj\Debug\netstandard2.0\TMBL.AssemblyInfo.cs
+D:\WPF_ProjectRepository\WPF_3 Tier Repository\WPF_repostiory_10-01-23\WPFControls\TechMangoWPFControls\TMBL\obj\Debug\netstandard2.0\TMBL.csproj.CoreCompileInputs.cache
+D:\WPF_ProjectRepository\WPF_3 Tier Repository\WPF_repostiory_10-01-23\WPFControls\TechMangoWPFControls\TMBL\obj\Debug\netstandard2.0\TMBL.csproj.CopyComplete
+D:\WPF_ProjectRepository\WPF_3 Tier Repository\WPF_repostiory_10-01-23\WPFControls\TechMangoWPFControls\TMBL\obj\Debug\netstandard2.0\TMBL.dll
+D:\WPF_ProjectRepository\WPF_3 Tier Repository\WPF_repostiory_10-01-23\WPFControls\TechMangoWPFControls\TMBL\obj\Debug\netstandard2.0\TMBL.pdb
